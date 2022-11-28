@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshant123321&show_icons=true&locale=en&layout=compact" alt="dikshant123321" /></p>
+   <a href="https://github.com/dikshant123321/github-readme-stats"><img alt="Dikshant Deogade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant123321&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshant123321&show_icons=true&locale=en" alt="dikshant123321" /></p>
 

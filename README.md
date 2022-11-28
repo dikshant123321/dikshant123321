@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshant123321&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant123321" /> </p>
 
 <h3 >About Me :-</h3>
+<hr>
 
 - 👨‍💻 I’m currently learning **Full Stack Java Development**
 - 📧 How to reach me **dikshantdeogade72@gmail.com**
@@ -13,11 +14,13 @@
 - 📁 See my resume:  **[Resume]()** 
 <br>
 <h3 align="left">Connect with me :-</h3>
+<hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/dikshant-deogade-29ba82246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dikshant-deogade-29ba82246" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools :-</h3>
+<hr>
 
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 

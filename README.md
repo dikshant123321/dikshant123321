@@ -1,5 +1,5 @@
 <img width="100%" src="https://i.ibb.co/SwH9yYg/Dikshant-Deogade.png">
-<h1 align="center">˜”*°•.˜”*°•Hi 👋, I'm Dikshant Deogade •°*”˜.•°*”˜</h1>
+<h1 align="center">Hi 👋, I'm Dikshant Deogade</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshant123321&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant123321" /> </p>
@@ -20,16 +20,8 @@
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-   <a href="" target="_blank"> </a> 
-   <a href="" target="_blank"> </a> 
-   <a href="" target="_blank"> </a> 
-   <a href="" target="_blank"> </a> 
+   <a style="margin-left=20px" href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-   <a href="" target="_blank"> </a> 
-   <a href="" target="_blank"> </a>
-   <a href="" target="_blank"> </a> 
-   <a href="" target="_blank"> </a> 
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 

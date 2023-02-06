@@ -10,7 +10,7 @@
 - 👨‍💻 I’m currently learning **Full Stack Java Development**
 - 📧 How to reach me **dikshantdeogade72@gmail.com**
 - 👀 I’m looking to **collaborate** on some **projects**.
-- 🗂️ Checkout my portfolio:  **[Portfolio]()**
+- 🗂️ Checkout my portfolio:  **[Portfolio](https://dikshant123321.github.io/)**
 - 📁 See my resume: **<a href="https://drive.google.com/file/d/1TJrn0kQEWcYtFrPXuvhIRnximf3OIgc1/view?usp=sharing"  target="_blank"> Resume </a>**
 
 <br>

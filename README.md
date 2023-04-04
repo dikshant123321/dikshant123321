@@ -42,7 +42,8 @@
 </p>
 <br>
 <p>
-  <a href="https://github.com/dikshant123321/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant123321&layout=compact" /></a>
+ <img alt="Dikshant Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant123321&layout=compact" /></a>
+</p> 
 <br>
    <br>
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshant123321&show_icons=true&locale=en" alt="dikshant123321" /></p>

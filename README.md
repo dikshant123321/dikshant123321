@@ -80,4 +80,4 @@
 &nbsp
 &nbsp
 <hr>
-<h1 align="center">🙏Thanks for Reviewing My Profile🙏<h1>
+<h1 align="center">🙏Thanks for checking out my profile.🙏<h1>

@@ -18,6 +18,10 @@
 <hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/dikshant-deogade-29ba82246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dikshant-deogade-29ba82246" height="30" width="40" /></a>
+    <a href='https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=dikshatdeogade72@gmail.com'>
+ <img align="left"  alt="dikshant deogade"  width="48px" height='48px' src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/googlemail-icon.png"/>
+      </a>
+	
 </p>
 <br>
 <h3 align="left">Languages and Tools :-</h3>
@@ -49,6 +53,31 @@
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshant123321&show_icons=true&locale=en" alt="dikshant123321" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant123321&" alt="dikshant123321" /></p>
+&nbsp
+&nbsp
+&nbsp
+<h3 align="left">Next planned Projects to upload :-</h3>
+<hr>
+<table style="width:100%">
+  <tr>
+    <th>Project</th>
+    <th>Functionality</th>
+  </tr>
+  <tr>
+    <td> <ol><li>E-commerce Application with Spring Boot</li></ol></td>
+    <td>
+       <li> Utilize JSON Web Tokens (JWT) for authentication and include the JWT token in the response upon successful login.</li>
+       <li> Product Management</li>
+       <li> Shopping Cart Functionality</li>
+       <li>Order Processing</li>
+    </td>
+  </tr>
+</table>
+
+
 
 <br>
+&nbsp
+&nbsp
+<hr>
 <h1 align="center">🙏Thanks for Reviewing My Profile🙏<h1>

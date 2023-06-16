@@ -64,7 +64,15 @@
     <th>Functionality</th>
   </tr>
   <tr>
-    <td> <ol><li>E-commerce Application with Spring Boot</li></ol></td>
+    <td>1. Users and trucks Managment</td>
+    <td>
+       <li> API will have specific authorization and validation </li>
+       <li>User and Truck API Implementation</li>
+       <li>Exception Handling and Validations</li>
+    </td>
+  </tr>	
+  <tr>
+    <td>2. E-commerce Application with Spring Boot</td>
     <td>
        <li> Utilize JSON Web Tokens (JWT) for authentication and include the JWT token in the response upon successful login.</li>
        <li> Product Management</li>
@@ -72,6 +80,7 @@
        <li>Order Processing</li>
     </td>
   </tr>
+ 
 </table>
 
 

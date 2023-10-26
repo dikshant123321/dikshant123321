@@ -56,7 +56,7 @@
 &nbsp
 &nbsp
 &nbsp
-<h3 align="left">Next planned Projects to upload :-</h3>
+<!-- <h3 align="left">Next planned Projects to upload :-</h3>
 <hr>
 <table style="width:100%">
   <tr>
@@ -81,7 +81,7 @@
     </td>
   </tr>
  
-</table>
+</table> -->
 
 
 

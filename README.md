@@ -11,7 +11,7 @@
 - 📧 How to reach me **dikshantdeogade72@gmail.com**
 - 👀 I’m looking to **collaborate** on some **projects**.
 - 🗂️ Checkout my portfolio:  **[Portfolio](https://dikshant123321.github.io/)**
-- 📁 See my resume: **<a href="https://drive.google.com/file/d/1Ho7JKjRsTlnKslqeHCEc6-q002ff16v6/view?usp=drive_link"  target="_blank"> Resume </a>**
+- 📁 See my resume: **<a href="https://drive.google.com/file/d/1I3_HYPPrcLr9X4OQlN7a6jjiLO696lV7/view?usp=sharing"  target="_blank"> Resume </a>**
 
 <br>
 <h3 align="left">Connect with me :-</h3>
